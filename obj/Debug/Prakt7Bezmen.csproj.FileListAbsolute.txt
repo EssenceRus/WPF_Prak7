@@ -1,0 +1,16 @@
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\bin\Debug\Prakt7Bezmen.exe.config
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\bin\Debug\Prakt7Bezmen.exe
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\bin\Debug\Prakt7Bezmen.pdb
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.csproj.AssemblyReference.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\MainWindow.g.cs
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\App.g.cs
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen_MarkupCompile.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen_MarkupCompile.lref
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\MainWindow.baml
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.g.resources
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.Properties.Resources.resources
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.csproj.GenerateResource.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.csproj.CoreCompileInputs.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.exe
+C:\Users\307-11\Desktop\WPF 7 SCRN\Prakt7Bezmen\obj\Debug\Prakt7Bezmen.pdb
